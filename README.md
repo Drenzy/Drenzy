@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">I'm a developer in Denmark, I am currently a sudent on Techincal Education Copenahgen, studying programming.</h3>
+<h3 align="center">I'm a developer in Denmark, I am currently a student on Techincal Education Copenahgen, studying programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drenzy&label=Profile%20views&color=0e75b6&style=flat" alt="drenzy" /> </p>
 
