@@ -39,5 +39,6 @@
 
 # 🎧 Mine seneste Spotify-hits
 
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=demoliziandan&unique={true|1|on|yes})
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=demoliziandan&count=8&width=500&unique=true)
+
 
