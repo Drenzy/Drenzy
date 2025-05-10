@@ -8,7 +8,7 @@
 - ⚡ Fun fact **I laugh at my own jokes**
 
 <h3 align="left">Connect with me:</h3>
-<a href="mailto:din.dnhartwich@gmail.com">
+<a href="mailto:dnhartwich@gmail.com">
   <img
     src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
    alt="gmail logo"
