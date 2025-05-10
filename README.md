@@ -19,4 +19,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drenzy&" alt="drenzy" /></p>
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=demoliziandan&width={width})
+# 🎧 Mine seneste Spotify-hits
+
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=demoliziandan)
+
