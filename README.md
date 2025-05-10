@@ -17,3 +17,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drenzy&show_icons=true&locale=en" alt="drenzy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drenzy&" alt="drenzy" /></p>
+
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=demoliziandan&width={width})
