@@ -1,8 +1,6 @@
 <h1 align="center">Hi I'm Daniel</h1>
 <h3 align="center">I'm a developer in Denmark, I am currently a student on Techincal Education Copenahgen, studying programming.</h3>
 
-- ⚡ Fun fact **I laugh at my own jokes**
-
 <h3 align="left">Connect with me:</h3>
 <a href="mailto:dnhartwich@gmail.com">
   <img
