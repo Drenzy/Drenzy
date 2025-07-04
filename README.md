@@ -1,5 +1,5 @@
-<h1 align="center">Hi I'm Daniel</h1>
-<h3 align="center">I'm a software developer in Denmark</h3>
+<h1 align="center">Hi I'm Daniel Nikolaj</h1>
+<h3 align="center">I am a Data Technician Specialising in Programmingk</h3>
 
 <h3 align="left">Connect with me:</h3>
 
