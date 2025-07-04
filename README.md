@@ -23,9 +23,9 @@
 
 
 
-``
+```
 # 🎧 My latest Spotify plays
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=demoliziandan&count=8&width=500&unique=true)
-``
+```
 
