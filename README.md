@@ -20,12 +20,3 @@
 </a>
   </div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=drenzy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-
-
-
-```
-# 🎧 My latest Spotify plays
-
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=demoliziandan&count=8&width=500&unique=true)
-```
-
