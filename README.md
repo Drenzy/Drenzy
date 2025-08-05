@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Daniel Nikolaj</h1>
-<h3 align="center">I am a Data Technician Specialising in Programmingk</h3>
+<h3 align="center">I am a Software Developer with a degree as a Data Technician Specialising in Programming</h3>
 
 <h3 align="left">Connect with me:</h3>
 
