@@ -3,14 +3,6 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://discord.com/users/209628368772136961">
-  <img align="center"
-    src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"
-    alt="discord logo"
-    height="35"
-  />
-</a>
-
 <a href="https://www.linkedin.com/in/danielhartwich/" target="_blank" rel="noopener noreferrer">
   <img align="center"
     src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
